@@ -1,0 +1,20 @@
+{
+     "schema_version": "1.0",
+     "packages": [
+      {
+       "name": "layui-completions",
+       "description": "layui 代码提示,根据官方demo整理的代码自动完成",
+       "author": "老北",
+       "homepage": "https://github.com/laobei/layui-completions",
+       "last_modified": "2016-11-30",
+       "platforms": {
+        "*": [
+         {
+          "version": "1.0",
+          "url": "https://nodeload.github.com/laobei/layui-completions/zip/master"
+         }
+        ]
+       }
+      }
+     ]
+    }
